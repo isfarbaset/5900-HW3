@@ -18,19 +18,19 @@ How do people **talk about states online**, and what can that reveal about **pub
 
 We dove into Reddit—a platform filled with real, unfiltered opinions—to analyze:
 
-- ✅ The **most talked-about** states
-- 🧠 The **tone** and **sentiment** behind these conversations
-- 🌍 How discussions differ by **topic**, from tourism to politics
-- 🔁 And how this all stacks up against official rankings like **U.S. News & World Report**
+✅ The **most talked-about** states <br>
+🧠 The **tone** and **sentiment** behind these conversations <br>
+🌍 How discussions differ by **topic**, from tourism to politics <br>
+🔁 And how this all stacks up against official rankings like **U.S. News & World Report**
 
 ---
 
 ## 💡 **Why Reddit?**
 
-Because Reddit is where the internet goes to vent, recommend, rant, ask questions, and debate. It’s:
-- 🗣️ Public and conversational
-- 🎭 Culturally diverse
-- 📈 Rich in data
+Because Reddit is where the internet goes to vent, recommend, rant, ask questions, and debate. It’s: <br>
+🗣️ Public and conversational <br>
+🎭 Culturally diverse <br>
+📈 Rich in data <br>
 
 Perfect for **digital storytelling** that uncovers trends in real human language.
 
