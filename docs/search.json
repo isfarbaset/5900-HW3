@@ -422,16 +422,16 @@
   {
     "objectID": "conclusion.html",
     "href": "conclusion.html",
-    "title": "Conclusion",
+    "title": "🎬 **Wrapping Up the State Story",
     "section": "",
-    "text": "Conclusion"
+    "text": "🌟 Texas, California, and Florida dominate both mentions and word frequencies—but sentiment isn’t always high.\n🟢 Montana and New Mexico emerged as surprise leaders in positive sentiment.\n🔴 States like Iowa, Ohio, and Florida had noticeably lower sentiment scores, hinting at public criticism or polarizing events.\n🧭 State discussions focus more on general themes and actions (e.g., “go,” “want,” “think”) than on unique characteristics."
   },
   {
     "objectID": "most-common.html",
     "href": "most-common.html",
-    "title": "Most Common Words on State Posts",
+    "title": "📊 Most Common Words on State Posts",
     "section": "",
-    "text": "Generic terms dominate the conversation, with words like “people,” “state,” and “one” appearing most frequently.\nOnly three states appear in the top words: Texas, Florida, and California, highlighting their outsized presence in online discussions.\nAction-oriented language like “go,” “think,” and “want” suggests engagement and future-focused discussions rather than purely descriptive content.\nThe limited geographic diversity in top words indicates a potential bias toward larger, more culturally prominent states in online discussions.\n\n\n\n\n\n\n\n\nThe dominance of general terms over state-specific terminology suggests many discussions focus on broader topics rather than state-specific issues.\nThe presence of only three state names (all large, populous states) aligns with our broader findings that Texas, Florida, and California dominate overall mention counts across Reddit.\nAction verbs in top words indicate that users are often discussing activities, plans, or opinions related to states rather than simply describing them.\nThis word frequency analysis complements our broader state mention data by providing insight into what people are saying about states, not just which states they’re talking about.\n\n\n\n\n\n\n\n✔ State discussions on Reddit tend to focus on general topics rather than specific state characteristics.\n✔ Large states dominate not just in overall mentions but in word frequency, suggesting their outsized cultural influence.\n✔ Content analysis reveals engagement-focused language, indicating active discussion rather than passive description.\n✔ Future research should explore why certain states appear more frequently in online discussions and how this relates to real-world factors like population, tourism, or news coverage."
+    "text": "Generic terms dominate the conversation, with words like “people,” “state,” and “one” appearing most frequently.\nOnly three states appear in the top words: Texas, Florida, and California, highlighting their outsized presence in online discussions.\nAction-oriented language like “go,” “think,” and “want” suggests engagement and future-focused discussions rather than purely descriptive content.\nThe limited geographic diversity in top words indicates a potential bias toward larger, more culturally prominent states in online discussions."
   },
   {
     "objectID": "most-common.html#word-frequency-analysis",
@@ -443,23 +443,23 @@
   {
     "objectID": "most-common.html#what-words-dominate-state-discussions",
     "href": "most-common.html#what-words-dominate-state-discussions",
-    "title": "Most Common Words on State Posts",
+    "title": "📊 Most Common Words on State Posts",
     "section": "",
     "text": "Generic terms dominate the conversation, with words like “people,” “state,” and “one” appearing most frequently.\nOnly three states appear in the top words: Texas, Florida, and California, highlighting their outsized presence in online discussions.\nAction-oriented language like “go,” “think,” and “want” suggests engagement and future-focused discussions rather than purely descriptive content.\nThe limited geographic diversity in top words indicates a potential bias toward larger, more culturally prominent states in online discussions."
   },
   {
     "objectID": "most-common.html#why-does-this-matter",
     "href": "most-common.html#why-does-this-matter",
-    "title": "Most Common Words on State Posts",
-    "section": "",
-    "text": "The dominance of general terms over state-specific terminology suggests many discussions focus on broader topics rather than state-specific issues.\nThe presence of only three state names (all large, populous states) aligns with our broader findings that Texas, Florida, and California dominate overall mention counts across Reddit.\nAction verbs in top words indicate that users are often discussing activities, plans, or opinions related to states rather than simply describing them.\nThis word frequency analysis complements our broader state mention data by providing insight into what people are saying about states, not just which states they’re talking about."
+    "title": "📊 Most Common Words on State Posts",
+    "section": "📌 Why Does This Matter?",
+    "text": "📌 Why Does This Matter?\n\n🔍 Key Takeaways\n\nThe dominance of general terms over state-specific terminology suggests many discussions focus on broader topics rather than state-specific issues.\nThe presence of only three state names (all large, populous states) aligns with our broader findings that Texas, Florida, and California dominate overall mention counts across Reddit.\nAction verbs in top words indicate that users are often discussing activities, plans, or opinions related to states rather than simply describing them.\nThis word frequency analysis complements our broader state mention data by providing insight into what people are saying about states, not just which states they’re talking about."
   },
   {
     "objectID": "most-common.html#implications-for-understanding-state-discussions",
     "href": "most-common.html#implications-for-understanding-state-discussions",
-    "title": "Most Common Words on State Posts",
-    "section": "",
-    "text": "✔ State discussions on Reddit tend to focus on general topics rather than specific state characteristics.\n✔ Large states dominate not just in overall mentions but in word frequency, suggesting their outsized cultural influence.\n✔ Content analysis reveals engagement-focused language, indicating active discussion rather than passive description.\n✔ Future research should explore why certain states appear more frequently in online discussions and how this relates to real-world factors like population, tourism, or news coverage."
+    "title": "📊 Most Common Words on State Posts",
+    "section": "📌 Implications for Understanding State Discussions",
+    "text": "📌 Implications for Understanding State Discussions\n\n🔍 Final Insights\n✔ State discussions on Reddit tend to focus on general topics rather than specific state characteristics.\n✔ Large states dominate not just in overall mentions but in word frequency, suggesting their outsized cultural influence.\n✔ Content analysis reveals engagement-focused language, indicating active discussion rather than passive description.\n✔ Future research should explore why certain states appear more frequently in online discussions and how this relates to real-world factors like population, tourism, or news coverage."
   },
   {
     "objectID": "state-sentiment.html",
@@ -471,23 +471,23 @@
   {
     "objectID": "state-sentiment.html#quick-highlights",
     "href": "state-sentiment.html#quick-highlights",
-    "title": "U.S. State Sentiment Map",
-    "section": "",
-    "text": "🟢 Montana and New Mexico had the highest sentiment scores.\n🔴 Iowa, Ohio, and Florida had the lowest sentiment scores.\n🧠 Hover over any state to see its average sentiment and state name."
+    "title": "🗺️ U.S. State Sentiment Map",
+    "section": "📌 Quick Highlights",
+    "text": "📌 Quick Highlights\n\n🟢 Montana and New Mexico had the highest sentiment scores.\n🔴 Iowa, Ohio, and Florida had the lowest sentiment scores.\n🧠 Hover over any state to see its average sentiment and state name."
   },
   {
     "objectID": "state-sentiment.html#why-this-matters",
     "href": "state-sentiment.html#why-this-matters",
-    "title": "U.S. State Sentiment Map",
-    "section": "",
-    "text": "Understanding sentiment helps us capture the emotional tone of online discussions about each state. These insights can reflect: - Public perception of a state’s policies or culture - National media influence - Socioeconomic events that spark emotional reactions"
+    "title": "🗺️ U.S. State Sentiment Map",
+    "section": "🔍 Why This Matters",
+    "text": "🔍 Why This Matters\nUnderstanding sentiment helps us capture the emotional tone of online discussions about each state. These insights can reflect: - Public perception of a state’s policies or culture - National media influence - Socioeconomic events that spark emotional reactions"
   },
   {
     "objectID": "state-sentiment.html#storytelling-implications",
     "href": "state-sentiment.html#storytelling-implications",
-    "title": "U.S. State Sentiment Map",
-    "section": "",
-    "text": "✔ The sentiment map ties directly into broader themes like population, polarization, and regional differences.\n✔ It helps viewers instantly spot outliers and dive deeper into why people feel a certain way about specific states.\n✔ Combine this with mention and topic data for a multi-dimensional view of state perception."
+    "title": "🗺️ U.S. State Sentiment Map",
+    "section": "💡 Storytelling Implications",
+    "text": "💡 Storytelling Implications\n✔ The sentiment map ties directly into broader themes like population, polarization, and regional differences.\n✔ It helps viewers instantly spot outliers and dive deeper into why people feel a certain way about specific states.\n✔ Combine this with mention and topic data for a multi-dimensional view of state perception."
   },
   {
     "objectID": "state-mentions.html",
@@ -499,16 +499,16 @@
   {
     "objectID": "state-mentions.html#key-observations",
     "href": "state-mentions.html#key-observations",
-    "title": "State Mentions Over Time",
-    "section": "",
-    "text": "🌟 Texas, California, and Florida consistently top the chart, reflecting their strong online presence.\n🔁 Shifts in mentions over time reveal dynamic changes—possibly tied to current events, news, or seasonal topics.\n🧠 Bar chart races make trends easier to absorb than static rankings."
+    "title": "🏁 State Mentions Over Time: Bar Chart Race",
+    "section": "📌 Key Observations",
+    "text": "📌 Key Observations\n\n🌟 Texas, California, and Florida consistently top the chart, reflecting their strong online presence.\n🔁 Shifts in mentions over time reveal dynamic changes—possibly tied to current events, news, or seasonal topics.\n🧠 Bar chart races make trends easier to absorb than static rankings."
   },
   {
     "objectID": "state-mentions.html#why-this-visualization",
     "href": "state-mentions.html#why-this-visualization",
-    "title": "State Mentions Over Time",
-    "section": "",
-    "text": "Animated charts like this are visually sticky — they keep the viewer’s attention while showcasing how public discourse evolves. This race format helps: - Reveal spikes or drops in popularity - Encourage viewers to guess what happened during certain months - Make data feel alive and timely"
+    "title": "🏁 State Mentions Over Time: Bar Chart Race",
+    "section": "💬 Why This Visualization?",
+    "text": "💬 Why This Visualization?\nAnimated charts like this are visually sticky — they keep the viewer’s attention while showcasing how public discourse evolves. This race format helps: - Reveal spikes or drops in popularity - Encourage viewers to guess what happened during certain months - Make data feel alive and timely"
   },
   {
     "objectID": "state-mentions.html#bonus-tip",
@@ -521,62 +521,62 @@
     "objectID": "index.html#the-big-question",
     "href": "index.html#the-big-question",
     "title": "State of the States",
-    "section": "",
-    "text": "How do people talk about states online, and what can that reveal about public sentiment, cultural bias, and national trends?\nWe dove into Reddit—a platform filled with real, unfiltered opinions—to analyze: - ✅ The most talked-about states - 🧠 The tone and sentiment behind these conversations - 🌍 How discussions differ by topic, from tourism to politics - 🔁 And how this all stacks up against official rankings like U.S. News & World Report"
+    "section": "🎯 The Big Question",
+    "text": "🎯 The Big Question\nHow do people talk about states online, and what can that reveal about public sentiment, cultural bias, and national trends?\nWe dove into Reddit—a platform filled with real, unfiltered opinions—to analyze:\n✅ The most talked-about states  🧠 The tone and sentiment behind these conversations  🌍 How discussions differ by topic, from tourism to politics  🔁 And how this all stacks up against official rankings like U.S. News & World Report"
   },
   {
     "objectID": "index.html#why-reddit",
     "href": "index.html#why-reddit",
     "title": "State of the States",
-    "section": "",
-    "text": "Because Reddit is where the internet goes to vent, recommend, rant, ask questions, and debate. It’s: - 🗣️ Public and conversational - 🎭 Culturally diverse - 📈 Rich in data\nPerfect for digital storytelling that uncovers trends in real human language."
+    "section": "💡 Why Reddit?",
+    "text": "💡 Why Reddit?\nBecause Reddit is where the internet goes to vent, recommend, rant, ask questions, and debate. It’s:  🗣️ Public and conversational  🎭 Culturally diverse  📈 Rich in data \nPerfect for digital storytelling that uncovers trends in real human language."
   },
   {
     "objectID": "index.html#what-youll-find-inside",
     "href": "index.html#what-youll-find-inside",
     "title": "State of the States",
-    "section": "",
-    "text": "Section\nDescription\n\n\n\n\n📊 Word Frequency\nA visual breakdown of the most common words used in state discussions\n\n\n🗺️ Sentiment Map\nAn interactive look at how positively or negatively each state is perceived\n\n\n🏁 Bar Chart Race\nWatch mentions shift month to month in an animated race\n\n\n🎬 Conclusion\nWhat all this means for understanding the cultural pulse of America"
+    "section": "🧩 What You’ll Find Inside",
+    "text": "🧩 What You’ll Find Inside\n\n\n\n\n\n\n\nSection\nDescription\n\n\n\n\n📊 Word Frequency\nA visual breakdown of the most common words used in state discussions\n\n\n🗺️ Sentiment Map\nAn interactive look at how positively or negatively each state is perceived\n\n\n🏁 Bar Chart Race\nWatch mentions shift month to month in an animated race\n\n\n🎬 Conclusion\nWhat all this means for understanding the cultural pulse of America"
   },
   {
     "objectID": "index.html#how-to-navigate",
     "href": "index.html#how-to-navigate",
     "title": "State of the States",
-    "section": "",
-    "text": "Use the top menu to move between pages.\nMost plots are interactive—hover, click, explore!\nCome curious. Leave with insights.\n\n\n\nReady to explore the digital heartbeat of America?"
+    "section": "📍 How to Navigate",
+    "text": "📍 How to Navigate\n\nUse the top menu to move between pages.\nMost plots are interactive—hover, click, explore!\nCome curious. Leave with insights.\n\n\n\nReady to explore the digital heartbeat of America?"
   },
   {
     "objectID": "conclusion.html#key-insights-we-uncovered",
     "href": "conclusion.html#key-insights-we-uncovered",
-    "title": "What Did We Learn?",
-    "section": "🧠 Key Insights We Uncovered",
-    "text": "🧠 Key Insights We Uncovered\n\n🌟 Texas, California, and Florida dominate both mentions and word frequencies—but sentiment isn’t always high.\n🟢 Montana and New Mexico emerged as surprise leaders in positive sentiment.\n🔴 States like Iowa, Ohio, and Florida had noticeably lower sentiment scores, hinting at public criticism or polarizing events.\n🧭 State discussions focus more on general themes and actions (e.g., “go,” “want,” “think”) than on unique characteristics."
+    "title": "🎬 **Wrapping Up the State Story",
+    "section": "",
+    "text": "🌟 Texas, California, and Florida dominate both mentions and word frequencies—but sentiment isn’t always high.\n🟢 Montana and New Mexico emerged as surprise leaders in positive sentiment.\n🔴 States like Iowa, Ohio, and Florida had noticeably lower sentiment scores, hinting at public criticism or polarizing events.\n🧭 State discussions focus more on general themes and actions (e.g., “go,” “want,” “think”) than on unique characteristics."
   },
   {
     "objectID": "conclusion.html#what-this-tells-us",
     "href": "conclusion.html#what-this-tells-us",
-    "title": "What Did We Learn?",
+    "title": "🎬 **Wrapping Up the State Story",
     "section": "📚 What This Tells Us",
     "text": "📚 What This Tells Us\nOnline conversations reflect: - ✅ Real-time perception more than official rankings. - 🧱 The dominance of large, culturally visible states in national discourse. - 🤖 The power of natural language data to reveal hidden trends."
   },
   {
     "objectID": "conclusion.html#limitations-to-keep-in-mind",
     "href": "conclusion.html#limitations-to-keep-in-mind",
-    "title": "What Did We Learn?",
+    "title": "🎬 **Wrapping Up the State Story",
     "section": "🔍 Limitations to Keep in Mind",
     "text": "🔍 Limitations to Keep in Mind\n\nSample limited to Reddit, which may not represent the general population.\nSentiment scores are surface-level; deeper meaning requires context.\nSmaller states may be underrepresented due to lower activity."
   },
   {
     "objectID": "conclusion.html#opportunities-for-future-exploration",
     "href": "conclusion.html#opportunities-for-future-exploration",
-    "title": "What Did We Learn?",
+    "title": "🎬 **Wrapping Up the State Story",
     "section": "🔄 Opportunities for Future Exploration",
     "text": "🔄 Opportunities for Future Exploration\n\nAdd more social platforms (e.g., X, TikTok, YouTube comments) for broader analysis.\nIncorporate real-world events to explain spikes in sentiment.\nBuild a real-time dashboard that updates with fresh data each month."
   },
   {
     "objectID": "conclusion.html#final-thoughts",
     "href": "conclusion.html#final-thoughts",
-    "title": "What Did We Learn?",
+    "title": "🎬 **Wrapping Up the State Story",
     "section": "❤️ Final Thoughts",
     "text": "❤️ Final Thoughts\nDigital storytelling lets us bring cold numbers to life. Through this project, we turned data into narrative, and statistics into insight.\nLet this be a reminder: &gt; “The internet is not just data. It’s stories, emotions, and the culture of the moment—if we know how to listen.”\n\n\n\n\n\n\n📬 Feedback? Questions? Just Curious?\nI’d love to hear what resonated most with you.\nDrop a message, send an email, or just say hi 👋🏼"
   }
