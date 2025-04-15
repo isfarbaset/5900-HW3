@@ -1,5 +1,5 @@
 ---
-title: "🎬 **Wrapping Up the State Story"
+title: "🎬Wrapping Up the State Story"
 format:
   html:
     theme: cosmo
