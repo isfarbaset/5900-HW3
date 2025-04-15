@@ -17,6 +17,7 @@ format:
 ---
 
 ## 📚 **What This Tells Us**
+
 Online conversations reflect: <br>
 
 ✅ **Real-time perception** more than official rankings. <br>
