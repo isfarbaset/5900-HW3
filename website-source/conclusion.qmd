@@ -17,7 +17,8 @@ format:
 ---
 
 ## 📚 **What This Tells Us**
-Online conversations reflect:
+Online conversations reflect: <br>
+
 ✅ **Real-time perception** more than official rankings. <br>
 🧱 The dominance of **large, culturally visible states** in national discourse. <br>
 🤖 The **power of natural language data** to reveal hidden trends. <br>
