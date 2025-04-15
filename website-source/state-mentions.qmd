@@ -1,0 +1,32 @@
+---
+title: "🏁 State Mentions Over Time: Bar Chart Race"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+---
+
+## **📊 Watch State Popularity Shift Month by Month**
+
+<div class="interactive-plot">
+<iframe src="plots/state_mentions_race.html" width="100%" height="600px" style="border:none;"></iframe>
+</div>
+
+---
+
+## 📌 **Key Observations**
+- 🌟 **Texas, California, and Florida consistently top the chart**, reflecting their strong online presence.
+- 🔁 **Shifts in mentions** over time reveal dynamic changes—possibly tied to current events, news, or seasonal topics.
+- 🧠 Bar chart races make trends easier to absorb than static rankings.
+
+---
+
+## 💬 Why This Visualization?
+
+Animated charts like this are **visually sticky** — they keep the viewer’s attention while showcasing how public discourse evolves. This race format helps:
+- Reveal spikes or drops in popularity
+- Encourage viewers to **guess what happened** during certain months
+- Make data feel alive and timely
+
+---

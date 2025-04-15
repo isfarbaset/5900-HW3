@@ -1,0 +1,37 @@
+---
+title: "📊 Most Common Words on State Posts"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+---
+
+## **📌 What Words Dominate State Discussions?**
+<div class="interactive-plot">
+<iframe src="plots/word_frequency.html" width="100%" height="600px" style="border:none;"></iframe>
+</div>
+
+### 🔍 **Insights from the Chart**
+- **Generic terms dominate the conversation**, with words like "people," "state," and "one" appearing most frequently.
+- **Only three states appear in the top words**: Texas, Florida, and California, highlighting their outsized presence in online discussions.
+- **Action-oriented language** like "go," "think," and "want" suggests engagement and future-focused discussions rather than purely descriptive content.
+- The **limited geographic diversity** in top words indicates a potential bias toward larger, more culturally prominent states in online discussions.
+
+
+## **📌 Why Does This Matter?**
+
+### 🔍 **Key Takeaways**
+- The dominance of **general terms over state-specific terminology** suggests many discussions focus on broader topics rather than state-specific issues.
+- The presence of only **three state names (all large, populous states)** aligns with our broader findings that Texas, Florida, and California dominate overall mention counts across Reddit.
+- **Action verbs in top words** indicate that users are often discussing activities, plans, or opinions related to states rather than simply describing them.
+- This word frequency analysis complements our broader state mention data by providing insight into **what people are saying** about states, not just which states they're talking about.
+
+
+## **📌 Implications for Understanding State Discussions**
+
+### 🔍 **Final Insights**
+✔ **State discussions on Reddit tend to focus on general topics** rather than specific state characteristics.  
+✔ **Large states dominate not just in overall mentions but in word frequency**, suggesting their outsized cultural influence.  
+✔ **Content analysis reveals engagement-focused language**, indicating active discussion rather than passive description.  
+✔ Future research should explore **why certain states appear more frequently** in online discussions and how this relates to real-world factors like population, tourism, or news coverage.

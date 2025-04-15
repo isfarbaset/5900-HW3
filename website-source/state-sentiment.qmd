@@ -1,0 +1,41 @@
+---
+title: "🗺️ U.S. State Sentiment Map"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+---
+
+## **🌟 Explore How States Compare in Online Sentiment**
+
+<div class="interactive-plot">
+<iframe src="plots/state_sentiment_map.html" width="100%" height="600px" style="border:none;"></iframe>
+</div>
+
+---
+
+## 📌 **Quick Highlights**
+
+- 🟢 **Montana and New Mexico** had the highest sentiment scores.
+- 🔴 **Iowa, Ohio, and Florida** had the lowest sentiment scores.
+- 🧠 Hover over any state to see its average sentiment and state name.
+
+---
+
+## 🔍 **Why This Matters**
+
+Understanding sentiment helps us capture the **emotional tone of online discussions** about each state. These insights can reflect:
+- Public perception of a state's policies or culture
+- National media influence
+- Socioeconomic events that spark emotional reactions
+
+---
+
+## 💡 **Storytelling Implications**
+
+✔ The sentiment map ties directly into broader themes like population, polarization, and regional differences.  
+✔ It helps viewers instantly spot **outliers** and dive deeper into **why people feel a certain way** about specific states.  
+✔ Combine this with mention and topic data for a **multi-dimensional view** of state perception.
+
+---

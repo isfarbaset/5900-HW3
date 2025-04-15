@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Introduction
-      - href: eda.qmd
-        text: EDA
-      # - href: nlp.qmd
-      #   text: NLP
-      # - href: ml.qmd
-      #   text: ML
+      - href: most-common.qmd
+        text: Most Common Words
+      - href: state-sentiment.qmd
+        text: Satement Sentiment
+      - href: state-mentions.qmd
+        text: State Mentions
       - href: conclusion.qmd
         text: Conclusion
       # - href: 
